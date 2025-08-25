@@ -1,4 +1,0 @@
-Yesterday I try to complete my beginner project using SQL and Java(SpringBoot).
-And for test purpose of backend :Postman is used.
-I that we able to add,delete,update,view our Time Schedules
-Then I try to add Filter for separation how sub or task started and when does it comes to end.(ongoing)
